@@ -2,7 +2,6 @@
 <html>
  <head>
 <link type="text/css" rel="stylesheet" >
-<title></title> 
 </head>
 <body>
 <div id="header">
